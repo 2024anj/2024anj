@@ -2,12 +2,12 @@
 
 - 🌟 I'm a senior at the University of Kentucky majoring in Computer Science with a minor in Math.
   
-- 🌱 I'm currently learning:
+- I'm currently learning:
   - Mobile App Development for iOS
   - Numerical Methods
   - Combinatorics and Graph Theory
  
-- 🌞 Some of My Hobbies:
+- Some of My Hobbies:
   - 🧶 crochet & knitting
   - making beaded jewelry & accessories
   - 🎮 playing video games
