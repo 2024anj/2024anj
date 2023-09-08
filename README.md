@@ -6,12 +6,6 @@
   - Mobile App Development for iOS
   - Numerical Methods
   - Combinatorics and Graph Theory
- 
-- Some of My Hobbies:
-  - 🧶 crochet & knitting
-  - making beaded jewelry & accessories
-  - 🎮 playing video games
-  - 🎻 playing violin & piano 🎹
   
 
 <!--
